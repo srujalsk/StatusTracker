@@ -1,3 +1,3 @@
 # StatusTracker
 
-a [Sails](http://sailsjs.org) application 
+An unique Team Status tracker based upon [Sails](http://sailsjs.org) application
