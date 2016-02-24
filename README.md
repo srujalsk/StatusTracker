@@ -1,2 +1,3 @@
 # StatusTracker
-An unique Team Status Tracker based on SailsJS
+
+a [Sails](http://sailsjs.org) application 
